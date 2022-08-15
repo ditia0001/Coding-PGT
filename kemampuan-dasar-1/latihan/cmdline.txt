@@ -1,0 +1,42 @@
+Peserta Coding
+Nama       : Aditya
+No Peserta : 30220038
+
+Perintah PowerShell 
+1.  get-help                                : Berfungsi untuk menyediakan informasi yang diperlukang tentang cmdlet, perintah, fungsi, skrip dan alur kerja PowerShell.
+2.  get-command                             : Berfungsi untuk melihat informasi bantuan perintah Get-Command cmdlet.
+3.  get-alias       (gal)                   : Berfungsi untuk menampilkan perintah powershell yang sudah di persingkat.
+4.  get-psdrive     (gdr)                   : Berfungsi untuk menampilkan drive pada windows.
+5.  get-process     (gps,ps)                : Berfungsi untuk menampilkan proses yang berjalan pada komputer.
+6.  get-childitem   (ls)                    : Berfungsi untuk menampilkan file dan folder dalam drive.
+7.  get-location    (pwd)                   : Berfungsi untuk menampilkan informasi tentang lokasi saat ini.
+8.  rename-item     (ren)                   : Berfungsi untuk mengganti nama item atau folder.
+9.  set-location    (cd)                    : Berfungsi untuk berpindah likasi dari lokasi saat ini ke lokasi yang di tentukan.
+10. clear-host      (clear,cls)             : Berfungsi untuk membersihkan tampilan di layar.
+11. remove-item     (del,erase,rm,rmdir,ri) : Berfungsi untuk menghapus file atau folder.
+12. copy-item       (cp,copy)               : Berfungsi untuk menyalin file atau folder.
+13. move-item       (mv,mi,move)            : Berfungsi untuk memindahkan item dari satu lokasi ke lokasi lainnya.
+14. mkdir           (md)                    : Berfungsi untuk membuat file atau folder baru.
+15. new-variable    (nv)                    : Berfungsi untuk membuat variabel baru.
+16. clear-variable  (clv)                   : Berfungsi untuk menghapus nilai variable.
+17. remove-variable (rv)                    : Berfungsi untuk menghapus variable dan nilainya.
+18. get-content     (cat)                   : Berfungsi untuk menampilkan isi file.
+19. clear-content   (clc)                   : Berfungsi untuk menghapus isi file, Tapi tidak menghapus file.
+20. ipconfig                                : Berfungsi untuk menampilkan konfigurasi IP komputer.
+21. ping                                    : Berfungsi untuk mengecek kecepatan koneksi internet di sebuah jaringan.
+22. netsh                                   : Berfungsi untuk menampilkan jaringan komputer yang saat ini berjalan.
+23. whoami                                  : Berfungsi untuk menampilkan nama dari user yang ada pada komputer.
+24. diskpark                                : Berfungsi untuk mengelola partisi hardisk.
+25. hostname                                : Berfungsi untuk menampilkan nama host atau jaringan komputer.
+26. getmac                                  : Berfungsi untuk menampilkan alamat fisik komputer yang digunakan.
+27. taskmgr                                 : Berfungsi untuk memanggil task manager.
+28. systeminfo                              : Berfungsi untuk menampilkan informasi komputer yang digunakan.
+29. tree                                    : Berfungsi untuk menampikan struktur dalam suatu folder.
+30. tasklist                                : Berfungsi untuk menampilkan informasi aplikasi yang sedang berjalan di komputer kamu.
+31. taskkill                                : Berfungsi untuk menutup aplikasi tertentu yang sedang berjalan pada komputer.
+32. exit                                    : Berfungsi untuk keluar dari aplikasi PowerShell.
+33. driverquery                             : Berfungsi untuk menampilkan daftar apa saja yang terinstall pada driver komputer.
+34. netstat                                 : Berfungsi untuk menampilkan semua daftar port yang saat itu terbuka dan alamat IP yang terkait.
+35. powercfg                                : Berfungsi untuk mengatur dan melacak energi yang digunakan oleh komputer kamu.
+36. date                                    : Berfungsi untuk menampilkan tanggal dan waktu.
+37. dir                                     : Berfungsi untuk melihat daftar file dan sub-direktori yang ada di dalam sebuah direktori.

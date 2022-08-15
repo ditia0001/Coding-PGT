@@ -1,0 +1,24 @@
+Nama       : Aditya
+No Peserta : 30220038
+Command line windows
+1. ping yaitu sebuah perintah yang digunakan untuk mengecek kecepatan internet
+2. ipconfig yaitu perintah yang digunakan untuk melihat konfigurasi IP Address komputer
+3. hostname yaitu perintah untuk melihat nama host atau jaringan komputer
+4. taskmgr yaitu perinah untuk untuk memanggil taks manager yang bisa berfungsi untuk melihat data seperti penggunaan CPU,Memory,Disk, dan lainnya
+5. systeminfo yaitu perintah yang digunakan untuk melihat informasi komputer
+6. tree yaitu perintah yang digunakan untuk menampilkan sturktur dalam folder dan juga bisa dilihat sub foldernya
+7. tasklist yaitu perintah untuk menampilkan informasi yang sedang berjalan pada komputer
+8. taskill yaitu perintah untuk menutup aplikasi yang sedang berjalan pada komputer
+9. driverquery yaitu perintah yang digunakan untuk melihat daftar apa saja yang terinstall pada driver pc atau laptop
+10. netstat yaitu fitur untuk melihat daftar port yang saat itu terbuka dan alamat ip yang terkait juga sekaligus memperlihatkan port ip komputer pengguna
+11. powercfg yaitu perintah untuk mengatur dan melacak energi yang digunakan oleh komputer
+12. cls yaitu perintah untuk membersihkan layar cmd
+13. date yaitu fitur untuk menampilkan tanggal
+14. ver yaitu fitur untuk menampilkan informasi system
+15. time yaitu fitur untuk menampilkan waktu
+16. color yaitu fitur yang digunakan untuk merubah tampilan warna pada command prompt
+17. dir yaitu fitu untuk menampilkan file folder yang sedang aktif
+18. cd yaitu fitur untuk berpindah dari satu folder ke folder lainnya
+19. sc yaitu fitur yang digunakan untuk menampilkan informasi aplikasi yang berjalan di latar belakang
+20. mkdir yaitu fitur perintah untuk membuat folder
+21. help yaitu fitur untuk menampilkan fungsi fungsi apa saja yang bisa dipakai
